@@ -1,9 +1,3 @@
----
-title: this is my title
-layout: post
----
-
-
 # Top Level Header
 
 ## Default iFrame from Tableau
