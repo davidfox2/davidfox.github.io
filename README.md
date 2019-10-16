@@ -2,7 +2,7 @@
 
 <a href='https://outlook.office365.com/owa/calendar/IMATest@uleth.onmicrosoft.com/bookings/'>Schedule online</a>
 
-<iframe src='https://outlook.office365.com/owa/calendar/IMATest@uleth.onmicrosoft.com/bookings/' width='100%' height='100%' scrolling='no' style='border:0'></iframe>
+<iframe src='https://outlook.office365.com/owa/calendar/IMATest@uleth.onmicrosoft.com/bookings/' width='100%' height='100%' min-height:250px scrolling='yes' style='border:0'></iframe>
 
 ## Default iFrame from Tableau
 "This Iframe uses a basic tableau embed code"
